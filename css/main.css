@@ -1241,6 +1241,8 @@
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
+			text-transform: lowercase;
+			font-family: bromello;
 		}
 
 			#header .content .inner {
@@ -1265,6 +1267,7 @@
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
+				font-family: "Source Sans Pro", sans-serif;
 				line-height: 2;
 			}
 
