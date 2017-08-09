@@ -1,11 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@import url(bromello.min.css);
 
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* Reset */
 
@@ -1242,7 +1238,7 @@
 			border-bottom-width: 1px;
 			max-width: 100%;
 			text-transform: lowercase;
-			font-family: bromello;
+			font-family: FontAwesome;
 		}
 			#header .content .inner {
 				-moz-transition: max-height 0.75s ease, padding 0.75s ease, opacity 0.325s ease-in-out;
