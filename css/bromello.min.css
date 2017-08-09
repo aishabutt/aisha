@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'bromello';
+    src:url('bromello.ttf.woff') format('woff'),
+        url('bromello.ttf.svg#bromello') format('svg'),
+        url('bromello.ttf.eot'),
+        url('bromello.ttf.eot?#iefix') format('embedded-opentype'); 
+        font-weight: normal;
+        font-style: normal;
+}
